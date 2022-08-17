@@ -1,4 +1,4 @@
-Diagram instalacji składającej się z:
+Diagram instalacji składającej się z: \
 1. bufor ciepła ALPHA PSI 1000 l
 2. grzałka Backer 10kW 6/4'' 400V z termostatem
 3. termoregulator Defro 55 Basic
@@ -14,9 +14,12 @@ Diagram instalacji składającej się z:
 13. Czujnik pogodowy dla sterownika EUROSTER 12M
 
 
-Credits:
-Ikonki termometru, pogody itp:
-https://www.svgrepo.com/svg/70412/snow
-https://www.svgrepo.com/svg/97547/thermometer-high-temperature
-https://symbols.radicasoftware.com/267/pid-pip-valves/20/3-way-valve
-https://symbols.radicasoftware.com/265/pid-iso-equipment/18/pump
+![preview](./preview.png)
+
+
+Credits:\
+Ikonki termometru, pogody itp:\
+https://www.svgrepo.com/svg/70412/snow \
+https://www.svgrepo.com/svg/97547/thermometer-high-temperature \
+https://symbols.radicasoftware.com/267/pid-pip-valves/20/3-way-valve \
+https://symbols.radicasoftware.com/265/pid-iso-equipment/18/pump \
