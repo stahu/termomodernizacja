@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="738"
+     inkscape:cx="688"
      inkscape:cy="265"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
@@ -1244,5 +1244,8 @@
            y="92.607224">13</tspan></text></g><path
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:0.1,0.60000001;stroke-dashoffset:0"
        d="M 106.89167,91.148957 H 283.63333"
-       id="path49430" /></g><style
+       id="path49430"
+       inkscape:export-filename="path49430.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /></g><style
      id="style5947"><![CDATA[.B{stroke-width:.5}.C{stroke:none}.D{stroke-linecap:square}]]></style></svg>
