@@ -19,8 +19,8 @@ Diagram instalacji w układzie otwartym składającej się z:
 14. naczynie wyrównawcze 60l
 
 
-Plik ![diagram.svg](./diagram.svg) dostępny w tym repo.
-Można z niego korzystać do celów prywatnych, nie komercyjnych.
+Plik diagram.svg dostępny w tym repo można edytować w programach do grafiki wektorowej np. darmowy Inkscape.
+Możesz korzystać z mojego templata do celów prywatnych i dowolnie go modyfikować do swych potrzeb.
 
 ![preview](./preview.png)
 
