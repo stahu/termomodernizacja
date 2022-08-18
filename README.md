@@ -1,4 +1,8 @@
-Diagram instalacji składającej się z: 
+Projekt zainspirowany filmem na kanale youtube 'Domowe ewolucje':
+https://www.youtube.com/watch?v=GAPlr3t0zMw&t
+
+
+Diagram instalacji w układzie otwartym składającej się z: 
 1. bufor ciepła ALPHA PSI 1000 l
 2. grzałka Backer 10kW 6/4'' 400V z termostatem
 3. termoregulator Defro 55 Basic
@@ -14,6 +18,9 @@ Diagram instalacji składającej się z:
 13. czujnik pogodowy dla sterownika EUROSTER 12M
 14. naczynie wyrównawcze 60l
 
+
+Plik ![diagram.svg](./diagram.svg) dostępny w tym repo.
+Można z niego korzystać do celów prywatnych, nie komercyjnych.
 
 ![preview](./preview.png)
 
