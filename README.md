@@ -11,7 +11,8 @@ Diagram instalacji składającej się z:
 10. czujnik temperatury dla sterownika EUROSTER 12M
 11. programator czasowy, styczniki, bezpieczniki, pomiar energii
 12. termometr/sterownik temperaturowy z LED i WiFi DTC1201 (Tuya)
-13. Czujnik pogodowy dla sterownika EUROSTER 12M
+13. czujnik pogodowy dla sterownika EUROSTER 12M
+14. naczynie wyrównawcze 60l
 
 
 ![preview](./preview.png)
